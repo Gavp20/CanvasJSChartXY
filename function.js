@@ -22,7 +22,7 @@ let ht = `<!DOCTYPE html>
 <script>
  	var chart = new CanvasJS.Chart("chartContainer", {
 		animationEnabled: true,  
- 		animationDuration: 3000,   
+ 		animationDuration: 2000,   
   		zoomEnabled: true,
 		zoomType: "xy",
 		theme: "light2",
